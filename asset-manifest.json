@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recepie-radar/static/css/main.4e2781ff.css",
+    "main.js": "/recepie-radar/static/js/main.7bee7c65.js",
+    "static/js/453.18cb662d.chunk.js": "/recepie-radar/static/js/453.18cb662d.chunk.js",
+    "index.html": "/recepie-radar/index.html",
+    "main.4e2781ff.css.map": "/recepie-radar/static/css/main.4e2781ff.css.map",
+    "main.7bee7c65.js.map": "/recepie-radar/static/js/main.7bee7c65.js.map",
+    "453.18cb662d.chunk.js.map": "/recepie-radar/static/js/453.18cb662d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e2781ff.css",
+    "static/js/main.7bee7c65.js"
+  ]
+}
