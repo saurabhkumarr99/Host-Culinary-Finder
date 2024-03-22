@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Host-Culinary-Finder/static/css/main.4e2781ff.css",
-    "main.js": "/Host-Culinary-Finder/static/js/main.f13c06b4.js",
+    "main.css": "/Host-Culinary-Finder/static/css/main.a766f24c.css",
+    "main.js": "/Host-Culinary-Finder/static/js/main.d2162f97.js",
     "static/js/453.18cb662d.chunk.js": "/Host-Culinary-Finder/static/js/453.18cb662d.chunk.js",
+    "static/media/RegImg.png": "/Host-Culinary-Finder/static/media/RegImg.825ce04d58975ed5f7b5.png",
+    "static/media/john.jpg": "/Host-Culinary-Finder/static/media/john.722c83de4121d9fcfede.jpg",
+    "static/media/jane.jpg": "/Host-Culinary-Finder/static/media/jane.a1d2f3730ad3b807a1cd.jpg",
     "index.html": "/Host-Culinary-Finder/index.html",
-    "main.4e2781ff.css.map": "/Host-Culinary-Finder/static/css/main.4e2781ff.css.map",
-    "main.f13c06b4.js.map": "/Host-Culinary-Finder/static/js/main.f13c06b4.js.map",
+    "main.a766f24c.css.map": "/Host-Culinary-Finder/static/css/main.a766f24c.css.map",
+    "main.d2162f97.js.map": "/Host-Culinary-Finder/static/js/main.d2162f97.js.map",
     "453.18cb662d.chunk.js.map": "/Host-Culinary-Finder/static/js/453.18cb662d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e2781ff.css",
-    "static/js/main.f13c06b4.js"
+    "static/css/main.a766f24c.css",
+    "static/js/main.d2162f97.js"
   ]
 }
